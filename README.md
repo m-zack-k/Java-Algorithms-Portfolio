@@ -1,6 +1,6 @@
 # Java Core Algorithms & Concurrency Portfolio
 
-![Java](https://img.shields.io/badge/Java-21%2B-orange) ![Maven](https://img.shields.io/badge/Build-Maven-blue) ![Testing](https://img.shields.io/badge/Testing-JUnit_5-green)
+![Java](https://img.shields.io/badge/Java-25%2B-orange) ![Maven](https://img.shields.io/badge/Build-Maven-blue) ![Testing](https://img.shields.io/badge/Testing-JUnit_5-green)
 
 A comprehensive collection of high-performance Java implementations focusing on **multi-threaded processing**, **custom data structures**, and **algorithmic optimization**. This repository demonstrates a deep understanding of core Computer Science fundamentals, build automation (Maven), and Test-Driven Development (TDD).
 
